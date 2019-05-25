@@ -1,1 +1,4 @@
-# Computer_Graphics_Lab_CSE422_DIU_Summer_2019
+# Computer Graphics Lab
+# CSE422
+# DIU
+# Summer 2019
