@@ -1,0 +1,1 @@
+int left=0, int top=0, int right=INT_MAX, int bottom=INT_MAX,
